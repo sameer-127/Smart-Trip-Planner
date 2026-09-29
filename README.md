@@ -12,22 +12,9 @@ The program divides the total budget into different categories such as travel, h
 1. Accepts the travel destination from the user.
 2. Takes the number of travel days.
 3. Accepts the total travel budget.
-4. Provides three travel styles:
-    (a) Budget
-    (b) Balanced
-    (c) Luxury
-5. Provides different travel preferences:
-    (a)vAdventure
-    (b) Nature
-    (c) History
-    (d) Food
-    (e) Mixed
-6. Automatically distributes the budget among:
-    (a) Travel
-    (b) Hotel
-    (c) Food
-    (d) Activities
-    (e) Emergency
+4. Provides three travel styles Budget, balanced, luxury
+5. Provides different travel preferences adventure, nature, history, food, mixed
+6. Automatically distributes the budget among travel, hotel, food, activities, emergency
 7. Calculates the daily travel budget.
 8. Generates a day-wise travel plan.
 9. Provides basic travel advice based on the daily budget.
